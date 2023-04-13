@@ -2,6 +2,8 @@
 
 We are Next Gate Tech, a FinTech company that excels in applying innovative solutions and has a proven track record in implementing cutting-edge technology. Specializing in Data Management and Analytics for the financial industry, we are driven by our passion for Smart Engineering and making a genuine impact in the FinTech space.
 
+<img src="https://storage.googleapis.com/nextgatetech-public/github/img-impossible-figures.png"></img>
+
 ## Our Team
 Composed of the brightest engineers, our team thrives on solving complex problems. With deep expertise in **Data Management, Advanced Analytics, Software Development, and Quantitative Finance**, we push the boundaries of what's possible to create innovative solutions that transform the financial industry landscape.
 
