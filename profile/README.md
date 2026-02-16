@@ -1,18 +1,63 @@
-# Hi there! 🚀
+# `Next Gate Tech / engineering`
 
-Welcome to the GitHub profile of Next Gate Tech!
+Welcome to the **Next Gate Tech** GitHub organization 👋.
 
-Next Gate Tech is a fintech company that specializes in automating data management and analytics for the financial sector. Utilizing the latest technologies, we provide our clients with a single, consistent, and consolidated source of data from multiple unharmonized sources. This integration enables them to streamline their day-to-day processes efficiently.
+We build software that helps teams **radically transform investment operations**, raising the bar for **efficiency, scalability, and trust** across liquid and private markets.
 
-Our SaaS solution leverages the harmonized datasets to provide our clients with meaningful signals based on smart analytics and insights from their assets. These insights are valuable for various applications, including NAV Oversight, Risk Analytics, Investment Management Supervision, Compliance, and ESG.
+If you’re a customer, partner, or developer: this is where we publish tooling, examples, and experiments that help you **integrate, extend, and build on the platform**.
 
-![Image of innovative financial solutions](https://storage.googleapis.com/nextgatetech-public/github/img-impossible-figures.png)
+---
 
+## `/what-you-will-find-in-this-org`
 
-Our team is made up of some of the brightest minds in Data Management, Software Engineering, Artificial Intelligence, and Quantitative Finance. If you are a tech enthusiast with a passion for the latest technological advancements and are eager to join our dynamic and skilled team of engineers, we invite you to explore the exciting opportunities available on our Careers page:
+* **SDKs, helpers, and reference implementations** for integrations
+* **Examples** for REST API, webhooks, and MCP usage
+* **Developer utilities** used by our engineering team
+* **Playground builds**: small experiments and fun prototypes (sometimes weird, often insightful)
 
-- [Explore Career Opportunities](https://nextgatetech.com/content/#!/careers)
-- [Learn More About Our Products](https://nextgatetech.com)
-- [Follow Us on LinkedIn](https://www.linkedin.com/company/next-gate-tech/)
+---
 
-🖥️ 🚀
+## `/build-on-next-gate-tech`
+
+Our developer surface area is designed for real-world integration work.
+
+Looking for docs, access, or references? Start from our [Developer Hub](http://nextgatetech.com/developers) and request access there.
+
+---
+
+## `/engineering-culture`
+
+We are a **high-ownership team** optimizing for focus, trust, and building things that actually ship.
+
+### Our values
+
+* **Challenge the Norm**
+* **Win Together**
+* **Take Ownership**
+* **Keep Growing**
+* **Build for Tomorrow**
+* **Lead with Transparency**
+
+### How we work
+
+* Competitive package (role-dependent)
+* Flexible hybrid/remote setup (by role/team needs)
+* Time off that is respected
+* Learning & growth support (training, conferences, tools)
+
+---
+
+## `/careers`
+
+We are always looking for talented people who want to make an impact, even if you don’t see the perfect role.
+Check our [Careers](http://nextgatetech.com/careers) page for the job board and open applications.
+
+**Hubs:** London & Luxembourg
+
+---
+
+## `/get-in-touch`
+
+* For platform questions, docs, and access: [Developers Hub](http://nextgatetech.com/developers)
+* For roles and open applications: [Careers](http://nextgatetech.com/careers)
+* For partnerships and product conversations: [Contact](http://nextgatetech.com/contact)
