@@ -38,13 +38,6 @@ We are a **high-ownership team** optimizing for focus, trust, and building thing
 * **Build for Tomorrow**
 * **Lead with Transparency**
 
-### How we work
-
-* Competitive package (role-dependent)
-* Flexible hybrid/remote setup (by role/team needs)
-* Time off that is respected
-* Learning & growth support (training, conferences, tools)
-
 ---
 
 ## `/careers`
